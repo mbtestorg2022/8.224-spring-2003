@@ -65,17 +65,127 @@ What are the laws of black hole thermodynamics? How do they suggest that black h
 
 {{< anchor "week" >}}{{< /anchor >}}
 
-| Week # | Projects |
-| --- | --- |
-| 1 | Each class member researches one project and prepares a one- or two-page summary. |
-| 2 | By the end of week 2, submit summary of one project topic. |
-| 3 | By the end of week 3, request approval from instructor for any project topic not on original list. |
-| 4 | Final project list posted.  {{< br >}}By the end of week 4, submit choices (first, second, third) for project team. |
-| 5 | By the end of week 5, comfirm assignments to project teams. |
-| 6 | By the end of week 6, each team submits list of project subtopics and team member(s) assigned to each subtopic. |
-| 8 | By the end of week 8, submit abstract and outline of project. |
-| 10 | During this week's recitation section meeting, one member of each team gives 5 minute progress report. |
-| 11 | During this week's recitation section meeting, second member of each team gives 5 minute progress report. (Different team member than gave earlier report.) |
-| 12 | During this week's recitation section meeting, third member of each team gives 5 minute progress report. (Different team member than gave earlier reports.) |
-| 13 | At the end of week 13, project reports begin in recitation section meeting. |
-| 14 | The deadline for posting project web page is the end of week 14.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Projects
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Each class member researches one project and prepares a one- or two-page summary.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+By the end of week 2, submit summary of one project topic.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+By the end of week 3, request approval from instructor for any project topic not on original list.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Final project list posted.  
+By the end of week 4, submit choices (first, second, third) for project team.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+By the end of week 5, comfirm assignments to project teams.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+By the end of week 6, each team submits list of project subtopics and team member(s) assigned to each subtopic.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+By the end of week 8, submit abstract and outline of project.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+During this week's recitation section meeting, one member of each team gives 5 minute progress report.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+During this week's recitation section meeting, second member of each team gives 5 minute progress report. (Different team member than gave earlier report.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+During this week's recitation section meeting, third member of each team gives 5 minute progress report. (Different team member than gave earlier reports.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+At the end of week 13, project reports begin in recitation section meeting.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The deadline for posting project web page is the end of week 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
